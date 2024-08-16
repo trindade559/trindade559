@@ -1,16 +1,12 @@
-## Hi, l´m natalia trindade
 
-<!--
-**trindade559/trindade559** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## bem vindo ao meu perfil 🕸️
 
-Here are some ideas to get you started:
+Meu nom é Natalia Trindade
 
-- 🔭 I’m currently working on alura
-- 🌱 I’m currently learning javascript
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: 00001119009327sp@al.educacao.sp.gov.br
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem javascript
+Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos 
+
+### Voce pode entrar em contato comigo pelo 📫
+
+00001119009327sp@al.educacao.sp.gov.br
