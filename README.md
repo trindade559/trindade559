@@ -1,7 +1,7 @@
 
 ## bem vindo ao meu perfil 🕸️
 
-Meu nom é Natalia Trindade
+Meu nome é Natalia Trindade
 
 Estou estudando na Alura.
 
